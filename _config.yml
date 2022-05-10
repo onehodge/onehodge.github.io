@@ -16,7 +16,7 @@
 title: onehodge
 email: on3hodge@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  i love yo titties cuz they prove
+  i love yo titties cuz they prove >-
   i can focus on two things at once
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://onehodge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
