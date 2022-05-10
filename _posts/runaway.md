@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Review: Runaway"
+date:   2022-05-10 11:55:14 +0800
+categories: music
+---
+
+
 ## Runaway - Kanye West
 
 I've heard something that goes like, "Runaway" is the hip-hop equivalent of "Bohemian Rhapsody". And I can't really say no to that. Both of these songs are so vulnerable and, they are songs that you can only fully relate to when you've been vulnerable. 
