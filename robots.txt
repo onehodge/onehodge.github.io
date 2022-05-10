@@ -1,9 +1,7 @@
----
-layout: null
-sitemap:
-  exclude: 'yes'
----
-User-agent: *
+User-agent: Mediapartners-Google
 Disallow:
 
-Sitemap: {{ site.url }}/sitemap.xml
+User-agent: *
+Disallow: /.bundle/
+Disallow: /.gitignore
+Allow: /
